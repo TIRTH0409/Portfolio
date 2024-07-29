@@ -1,7 +1,4 @@
-<div align="center">
-  
-  ![GitHub repo size]([https://img.shields.io/github/repo-size/codewithsadee/portfolio](https://www.behance.net/Tirth-ux-ui-designer))
-  ![GitHub stars]([https://img.shields.io/github/stars/codewithsadee/portfolio?style=social](https://www.linkedin.com/in/tirth-ux-ui-designer))
+
   
 
 
